@@ -5,9 +5,14 @@
 </h4>
 
 <h3 align="center">
-<<<<<<< HEAD
   <img src="./logo1.png">
-=======
-  <img src="/logo1.png">
->>>>>>> 30ead6d94183e42e6d210c4df83beefe8ba068ad
 </h3>
+
+<h3 align="center">
+:computer: :iphone: Foi desenvolvido um Projeto Totalmente Responsivo e Adaptável a qualquer tela :iphone: :computer: 
+</h3>
+
+#### :rocket: - Tecnologias
+- ✔ ReactJS | FrontEnd WEB
+- ✔ React-Spinners | uma coleção de spinners de carregamento com React.js com base em
+- ✔ React-Scroll | Componente para animar a rolagem vertical.
